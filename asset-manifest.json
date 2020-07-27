@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-icons-demo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-icons-demo/static/js/main.ae347469.chunk.js",
+    "main.js.map": "/react-icons-demo/static/js/main.ae347469.chunk.js.map",
+    "runtime-main.js": "/react-icons-demo/static/js/runtime-main.57f84876.js",
+    "runtime-main.js.map": "/react-icons-demo/static/js/runtime-main.57f84876.js.map",
+    "static/js/2.590a6373.chunk.js": "/react-icons-demo/static/js/2.590a6373.chunk.js",
+    "static/js/2.590a6373.chunk.js.map": "/react-icons-demo/static/js/2.590a6373.chunk.js.map",
+    "index.html": "/react-icons-demo/index.html",
+    "precache-manifest.e469fc2ecbdb013a2aee63ffdd923256.js": "/react-icons-demo/precache-manifest.e469fc2ecbdb013a2aee63ffdd923256.js",
+    "service-worker.js": "/react-icons-demo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-icons-demo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.590a6373.chunk.js.LICENSE.txt": "/react-icons-demo/static/js/2.590a6373.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57f84876.js",
+    "static/js/2.590a6373.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ae347469.chunk.js"
+  ]
+}
